@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bem vindo ao Ministério da Reconciliação com Deus!
 
 You can use the [editor on GitHub](https://github.com/ministerioreconciliacao/ministerio.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
